@@ -117,6 +117,12 @@ That's it. Your entire project is packaged into one file.
 
 ---
 
+## Planned Changes
+
+* Changing default output location from `Desktop` to the folder you chose for the project
+
+---
+
 ## 📋 Requirements
 
 For the packaged `.exe`, **no Python installation is required**.
